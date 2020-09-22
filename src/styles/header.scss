@@ -1,0 +1,26 @@
+@import 'variables';
+
+img{
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+.myPicture{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: $base-padding;
+
+}
+h1, h2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: $base-padding;
+  margin: $base-margin;
+}
+
+hr{
+    color: $gray;
+    // border:7px;
+}

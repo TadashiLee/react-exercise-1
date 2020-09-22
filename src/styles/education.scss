@@ -1,0 +1,19 @@
+@import 'variables';
+
+h3, p{
+  padding: $base-padding;
+  margin: $base-margin;
+}
+.educationp{
+  height: 70px;
+  font-weight:bold;
+  float: left;
+  
+}
+.licss{
+  background-color: $gray;
+  margin-left: 100px;
+}
+.yeardiv{
+  margin: $base-margin 0px;
+}

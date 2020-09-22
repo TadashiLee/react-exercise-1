@@ -7,3 +7,8 @@
   width: 960px;
   background-color: $white;
 }
+
+.header, .about, hr, .education{
+  position: relative;
+  top: -85px;
+}
